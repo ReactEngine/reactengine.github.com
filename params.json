@@ -1,1 +1,7 @@
-{"name":"ReactEngine","tagline":"https://github.com/ReactEngine","body":"# ReactEngine\r\n一个基于 [Reac Native](https://facebook.github.io/react-native) + [Redux](https://github.com/reactjs/redux) + [Strongloop](https://strongloop.com) 的快速开发框架.  \r\n目的: 快速开发,原则上一个 JS 工程师可以搞定 iOS/Android/Server 开发.\r\n\r\n## Client\r\n```\r\nhttps://github.com/ReactEngine/ReactEngine-Client.git\r\n```\r\n## Server\r\n```\r\nhttps://github.com/ReactEngine/ReactEngine-Server.git\r\n```\r\n### 命令行工具\r\n```\r\nhttps://github.com/ReactEngine/Commandline.git\r\n```","google":"UA-42694301-8","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "ReactEngine",
+  "tagline": "https://github.com/ReactEngine",
+  "body": "# ReactEngine\r\n一个基于 [Reac Native](https://facebook.github.io/react-native) + [Redux](https://github.com/reactjs/redux) + [Strongloop](https://strongloop.com) 的快速开发框架.  \r\n目的: 快速开发,原则上一个 JS 工程师可以搞定 iOS/Android/Server 开发.\r\n\r\n## Client\r\n```\r\nhttps://github.com/ReactEngine/ReactEngine.git\r\n```\r\n## Server\r\n```\r\nhttps://github.com/ReactEngine/ReactEngine-Server.git\r\n```\r\n### 代码生成工具\r\n```\r\nhttps://github.com/ReactEngine/generator-reactengine.git    \r\nhttps://www.npmjs.com/package/generator-reactengine\r\n```",
+  "google": "UA-42694301-8",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
